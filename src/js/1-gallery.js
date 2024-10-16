@@ -93,5 +93,5 @@ const lightbox = new SimpleLightbox('.gallery a', {
   captionsData: 'alt',
   captionPosition: 'bottom',
   captionDelay: 250,
-  overlayOpacity: 1,
+  overlayOpacity: 0.8,
 });
